@@ -1,8 +1,11 @@
 from constants import ___
 
 
-def is_point_in_square(point: tuple[int, int], left_upper_corner: tuple[
-        int, int], right_bottom_corner: tuple[int, int]) -> bool:
+def is_point_in_square(
+    point: tuple[int, int], 
+    left_upper_corner: tuple[int, int],
+    right_bottom_corner: tuple[int, int],
+) -> bool:
     pass
 
 
